@@ -11,7 +11,7 @@
     </parent>
     <groupId>org.sc.util</groupId>
     <artifactId>ScUtilLib</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

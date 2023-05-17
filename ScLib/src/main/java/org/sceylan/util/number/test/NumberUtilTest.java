@@ -1,7 +1,7 @@
-package org.sceylan.util.test;
+package org.sceylan.util.number.test;
 
-import org.sceylan.util.ArrayUtil;
-import org.sceylan.util.NumberUtil;
+import org.sceylan.util.array.ArrayUtil;
+import org.sceylan.util.number.NumberUtil;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -13,13 +13,13 @@ public class NumberUtilTest {
         Random r = new Random();
         long number;
         System.out.print("please enter number: ");
-        number = Integer.parseInt(kb.nextLine());
+        number = kb.nextLong();
 
-        long[] result= NumberUtil.getDigits(number);
+        long[] result= NumberUtil.getDigitsInThrees(number);
         if(result.length==0)
             System.out.println("Invalid Values!");
         else
-            ArrayUtil.print(result);
+            ArrayUtil.printArray(result);
 
     }
 }

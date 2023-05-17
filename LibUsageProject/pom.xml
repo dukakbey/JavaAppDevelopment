@@ -12,13 +12,37 @@
 <groupId>org.example</groupId>
 <artifactId>LibUsageProject</artifactId>
 <version>1.0.0</version>
-
+    <repositories>
+        <repository>
+            <id>javaMavenRepo</id>
+            <url>https://raw.github.com/dukakbey/javaMavenRepo/main</url>
+        </repository>
+        <repository>
+            <id>OpenJFX</id>
+            <url>https://mvnrepository.com/artifact/org.openjfx/javafx</url>
+        </repository>
+    </repositories>
 <properties>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.sceylan</groupId>
+            <artifactId>org-sceylan-util</artifactId>
+            <version>14.0.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.openjfx/javafx -->
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx</artifactId>
+            <version>11</version>
+            <type>pom</type>
+        </dependency>
+    </dependencies>
 <build>
+
     <plugins>
         <!--plugin>
             <groupId>org.apache.maven.plugins</groupId>
