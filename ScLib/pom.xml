@@ -12,10 +12,28 @@
     <groupId>org.sc.util</groupId>
     <artifactId>ScUtilLib</artifactId>
     <version>1.0.1</version>
+    <repositories>
+        <repository>
+            <id>javaMavenRepo</id>
+            <url>https://raw.github.com/dukakbey/javaMavenRepo/main</url>
+        </repository>
+        <repository>
+            <id>OpenJFX</id>
+            <url>https://mvnrepository.com/artifact/org.openjfx/javafx</url>
+        </repository>
+        <repository>
+            <id>javaapp1-mar-2023-maven-repo</id>
+            <url>https://raw.github.com/oguzkaran/javaapp1-mar-2023-maven-repo/main</url>
+        </repository>
 
+        <repository>
+            <id>javaapp1-mar-2023-karandev-maven-repo</id>
+            <url>https://raw.github.com/oguzkaran/javaapp1-mar-2023-karandev-maven-repo/main</url>
+        </repository>
+    </repositories>
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <build>
@@ -31,4 +49,66 @@
             </plugin>
         </plugins>
     </build>
+    <dependencies>
+        <dependency>
+            <groupId>org.sceylan</groupId>
+            <artifactId>org-sceylan-util</artifactId>
+            <version>14.0.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.openjfx/javafx -->
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx</artifactId>
+            <version>11</version>
+            <type>pom</type>
+        </dependency>
+        <dependency>
+            <groupId>com.karandev</groupId>
+            <artifactId>com-karandev-util-console</artifactId>
+            <version>14.2.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.csystem</groupId>
+            <artifactId>org-csystem-math</artifactId>
+            <version>15.0.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.csystem</groupId>
+            <artifactId>org-csystem-util</artifactId>
+            <version>16.0.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.csystem</groupId>
+            <artifactId>org-csystem-util-datetime</artifactId>
+            <version>14.0.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/junit/junit -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>31.1-jre</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.12.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 </project>

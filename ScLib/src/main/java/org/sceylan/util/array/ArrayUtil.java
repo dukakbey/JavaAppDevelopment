@@ -3,6 +3,18 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 public class ArrayUtil {
+
+    public static void display(int ...values)
+    {
+        for(var i:values)
+            System.out.println(i);
+    }
+    public static void display(String ...values)
+    {
+        for(var i:values)
+            System.out.println(i);
+    }
+
     public static char firstNonRepeatingCharacter(String s)
     {
         int [] arr = fillASCII(s);
@@ -41,7 +53,7 @@ public class ArrayUtil {
 
             for(int i = 0;i<size;++i)
             {
-                a[i] = r.nextInt(min,max);
+                //a[i] = r.nextInt(min,max);
             }
             return a;
         }
@@ -139,6 +151,7 @@ public class ArrayUtil {
     }
     public static void printArray(long[] a)
     {
+        assert a.length<5:String.format("array length error %d",a.length);
         for(int i = 0;i<a.length;i++)
         {
             System.out.printf("number%d: %d\n",i,a[i]);

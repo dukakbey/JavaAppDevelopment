@@ -36,7 +36,7 @@ public class StringUtil {
         return String.valueOf(result);
     }
 
-    public static String[] generateStringArray(Random r,int a)
+    /*public static String[] generateStringArray(Random r,int a)
     {
         String[] str= new String[a];
         //char[] tmp =new char[10];
@@ -46,12 +46,12 @@ public class StringUtil {
             tmp = "";
             for(int j = 0;j<r.nextInt(0,10);j++)
             {
-                tmp += (char)r.nextInt(65,122);
+                //tmp += (char)r.nextInt(65,122);
             }
             str[i] = String.valueOf(tmp);
         }
         return str;
-    }
+    }*/
 
     public  static void getRandomText(Random r,int n,String text)
     {
@@ -64,6 +64,15 @@ public class StringUtil {
             System.out.println(s[i].toString());
         }
         System.out.println("-------------------------");
+    }
+    public static String getLetters(String s)
+    {
+        StringBuilder sb = new StringBuilder();
+        char [] chars = s.toCharArray();
+        for(char c:chars)
+            if(Character.isLetter(c))
+                sb.append(c);
+        return sb.toString();
     }
     public static String join(String[] s,String delimiter)
     {

@@ -13,7 +13,7 @@ public class NumericLottery {
     }
     Random random;
     int[] numbers = new int[6];
-    public int [] getNumbers()
+   /* public int [] getNumbers()
     {
         boolean repeat = true;
         for(int i = 0;i<numbers.length;i++)
@@ -32,7 +32,7 @@ public class NumericLottery {
         }
         ArrayUtil.bubleSort(numbers);
         return numbers;
-    }
+    }*/
 
 
 
