@@ -1,0 +1,117 @@
+Java App Ders Linkleri
+	1.	Ders  https://vimeo.com/808090568  Şifre: maven
+	2.	Ders  https://vimeo.com/808960118  Şifre: point
+	3.	Ders  https://vimeo.com/810298313  Şifre: dependency
+	4.	Ders  https://vimeo.com/811100185  Şifre: remote
+	5.	Ders  https://vimeo.com/812625308  Şifre: var
+	6.	Ders  https://vimeo.com/813344310  Şifre: BigDecimal
+	7.	Ders  https://vimeo.com/816720014  Şifre: guava
+	8.	Ders  https://vimeo.com/817520405  Şifre : apache
+	9.	Ders  https://vimeo.com/818899391  Şifre: junit
+	10.	Ders  https://vimeo.com/821044556?share=copy  Şifre: void
+	11.	Ders  https://vimeo.com/821798678?share=copy  Şifre: fluent
+	12.	Ders  https://vimeo.com/823870884?share=copy  Şifre: stdout
+	13.	Ders  https://vimeo.com/825234899?share=copy  Şifre : vararg
+	14.	Ders  https://vimeo.com/825983398?share=copy  Şifre: recursion
+	15.	Ders  https://vimeo.com/827402818?share=copy  Şifre: mint
+	16.	Ders  https://vimeo.com/828126013?share=copy  Şifre : linux
+	17.	Ders  https://vimeo.com/829570375?share=copy  Şifre: gcd
+	18.	Ders  https://vimeo.com/831640641?share=copy  Şifre:calendar
+	18. Ders  https://vimeo.com/831641663?share=copy  Şifre:calendar
+	19.	Ders  https://vimeo.com/832391743?share=copy  Şifre: chrono
+	20.	Ders  https://vimeo.com/833805028?share=copy  Şifre: bitwise
+	21.	Ders  https://vimeo.com/834531527?share=copy  Şifre: reset
+	22.	Ders  https://vimeo.com/835942272?share=copy  Şifre:clear
+	23.	Ders  https://vimeo.com/836672075?share=copy  Şifre: capture
+	24.	Ders  https://vimeo.com/838067459?share=copy  Şifre: inner
+	25.	Ders  https://vimeo.com/838802877?share=copy  Şifre: builder
+	26.	Ders  https://vimeo.com/842289714?share=copy  Şifre: closure
+	27.	Ders  https://vimeo.com/842988466?share=copy  Şifre: timer
+	28.	Ders  https://vimeo.com/845081779?share=copy  Şifre: expression
+	29.	Ders  https://vimeo.com/846393641?share=copy  Şifre: scheduler
+	30.	Ders  https://vimeo.com/847117676?share=copy  Şifre: alarm
+	31.	Ders  https://vimeo.com/848485371?share=copy  Şifre: checked
+	32.	Ders  https://vimeo.com/849255506?share=copy  Şifre: module
+	33.	Ders  https://vimeo.com/850776254?share=copy  Şifre :optional 
+	34.	Ders  https://vimeo.com/851436992?share=copy  Şifre: orElse
+	35.	Ders  https://vimeo.com/852809528?share=copy  Şifre: map
+	36.	Ders  https://vimeo.com/853589546?share=copy  Şifre: retention
+	37.	Ders  https://vimeo.com/854897687?share=copy  Şifre: deprecated
+	38.	Ders  https://vimeo.com/855601646?share=copy  Şifre: reflection
+	39.	Ders  https://vimeo.com/857694098?share=copy  Şifre: reflect
+	40.	Ders  https://vimeo.com/859161981?share=copy  Şifre: method
+	41.	Ders  https://vimeo.com/859911370?share=copy  Şifre: repeat
+	42.	Ders  https://vimeo.com/861498152?share=copy  Şifre: annotation
+	43.	Ders  https://vimeo.com/862729899?share=copy  Şifre: iterable
+	44.	Ders  https://vimeo.com/863733628?share=copy  Şifre: range
+	44.	Ders  https://vimeo.com/864539890?share=copy  Şifre: range //video numara sırası kaymış
+	45.	Ders  https://vimeo.com/866110799?share=copy  Şifre: collection
+	46.	Ders  https://vimeo.com/868549501?share=copy  Şifre: equals
+	47.	Ders  https://vimeo.com/869325770?share=copy  Şifre: pair
+	48.	Ders  https://vimeo.com/870817216?share=copy  Şifre: log
+	49.	Ders  https://vimeo.com/871633767?share=copy  Şifre: null
+	50.	Ders  https://vimeo.com/873116665?share=copy  Şifre: stack
+	51.	Ders  https://vimeo.com/873960162 Şifre : compare
+	52.	Ders  https://vimeo.com/876126623 Şifre: comparator
+	53.	Ders  https://vimeo.com/877676433 Şifre: queue
+	54.	Ders  https://vimeo.com/878442512?share=copy Şifre: set
+	55.	Ders  https://vimeo.com/879936579?share=copy Şifre: tree
+	56.	Ders  https://vimeo.com/880661576 Şifre: hash
+	57.	Ders  https://vimeo.com/882345887?share=copy  Şifre:set
+	58.	Ders  https://vimeo.com/883044780  Şifre:map
+	59.	Ders  https://vimeo.com/884539627 Şifre: tree
+	60.	Ders  https://vimeo.com/885368129  Şifre:predicate
+	61.	Ders  https://vimeo.com/887019101?share=copy Şifre:count
+	62.	Ders  https://vimeo.com/887877201?share=copy  Şifre: match
+	63.	Ders  https://vimeo.com/889285957?share=copy  Şifre:reduce
+	64.	Ders  https://vimeo.com/890063596?share=copy Şifre: generate
+	65.	Ders  https://vimeo.com/891604423?share=copy Şifre:while
+	66.	Ders  https://vimeo.com/892403262?share=copy  Şifre: distinct
+	67.	Ders  https://vimeo.com/893869022?share=copy Şifre:partition
+	68.	Ders  https://vimeo.com/894665622?share=copy Şifre:map
+	69.	Ders  https://vimeo.com/898107350?share=copy Şifre:spliterator
+	70.	Ders  https://vimeo.com/898429253?share=copy  Şifre:post
+	71.	Ders  https://vimeo.com/899352473?share=copy  Şifre:qualifier
+	72.	Ders  https://vimeo.com/899932717?share=copy  Şifre:qualifier
+	73.	Ders  https://vimeo.com/901368494?share=copy  Şifre:value
+	74.	Ders  https://vimeo.com/902359435?share=copy  Şifre:servlet
+	75.	Ders  https://vimeo.com/903422571?share=copy https://vimeo.com/903429545?share=copy  Şifre: request
+	76. Ders  https://vimeo.com/904239228 şifre: primary
+	77. Ders  https://vimeo.com/908433240?share=copy şifre: relation
+	78. Ders  https://vimeo.com/909235650?share=copy şifre: many
+	79. Ders  https://vimeo.com/910993732?share=copy şifre: jpql
+	80. Ders  https://vimeo.com/911779924?share=copy şifre:repo
+	81. Ders  https://vimeo.com/912732740?share=copy şifre: component
+	82. Ders  https://vimeo.com/913832651?share=copy şifre: post
+	83. Ders  https://vimeo.com/915241044?share=copy şifre: rest
+	84. Ders  https://vimeo.com/915834787?share=copy şifre : geo
+	85. Ders  https://vimeo.com/918269028?share=copy şifre: faster
+	86. Ders  https://vimeo.com/919805576?share=copy şifre: jpa
+	87. Ders  https://vimeo.com/922796333?share=copy şifre: map
+	88. Ders  https://vimeo.com/922689959?share=copy şifre: controller
+	89. Ders  https://vimeo.com/923519622?share=copy şifre: datetime
+	90. Ders  https://vimeo.com/926265950?share=copy şifre: weather
+	91. Ders  https://vimeo.com/926776009?share=copy şifre: daily
+	92. Ders  https://vimeo.com/927726473?share=copy şifre: h2
+	93. Ders  https://vimeo.com/929794737?share=copy şifre: eager
+	94. Ders  https://vimeo.com/931831990?share=copy şifre: stack
+	95. Ders  https://vimeo.com/936003961?share=copy şifre: h2db
+	96. Ders  https://vimeo.com/936453020?share=copy şifre: rest
+	97. Ders  https://vimeo.com/939965786?share=copy şifre: post
+	
+	
+	
+Dosyalar 
+	1.	Ders (20.08.2023) https://vimeo.com/856201872?share=copy   Şifre:path
+	2.	Ders (26.08.2023) https://vimeo.com/858246121?share=copy  Şifre: files
+	3.	Ders (01.09.2023) https://vimeo.com/860312480   Şifre:copy
+	4.	Ders (08.09.2023) https://vimeo.com/862501502?share=copy  Şifre : stream
+	5.	Ders (11.09.2023) https://vimeo.com/862960623?share=copy   Şifre: concat
+	6.	Ders (23.09.2023) https://vimeo.com/867530846?share=copy   Şifre: bytebuffer
+	7.	Ders (14.10.2023) https://vimeo.com/874488400 Şifre: output
+	8.	Ders (21.10.2023) https://vimeo.com/876755225?share=copy Şifre:char
+	9.	Ders (11.11.2023)  https://vimeo.com/883609045?share=copy  Şifre: csv
+	10.	Ders (18.11.2023)  https://vimeo.com/886057873?share=copy   Şifre:buffer
+	11.	Ders (22.11.2023) https://vimeo.com/887537096?share=copy  Şifre: image
+	12.	Ders(2.12.2023)  https://vimeo.com/891760869?share=copy  Şifre:rgb
+	13.	Ders(9.12.2023) https://vimeo.com/892967592?share=copy Şifre:temp
