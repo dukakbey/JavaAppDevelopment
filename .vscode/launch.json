@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "org.sceylan.Main",
+            "console": "externalTerminal",
+            "projectName": "maventestproject"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "org.example.Main",
+            "console": "externalTerminal",
+            "projectName": "GenericTraningProject"
+        }
+    ]
+}

@@ -13,7 +13,7 @@ public class DigitalClock {
     private static TimerTask task = new TimerTask() {
         @Override
         public void run() {
-            System.out.printf("%s\r",formatter.format(LocalDateTime.now()));
+            System.out.printf("%s\r",formatter.format(LocalDateTime.now()),"\n");
         }
     };
     public static void run()
