@@ -1,0 +1,4 @@
+Ders 20
+===================
+Konular: Datetime - Bitsel operatorlere başlangıç
+*23. derse kadar bitsel işlemler anlatılmış.

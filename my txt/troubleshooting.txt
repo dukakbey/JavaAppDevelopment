@@ -1,0 +1,47 @@
+java uygulama ders 2
+***************************
+konular: maven remote
+*******************************
+
+-dependency: 
+	-<dependency> </dependency>:
+		-"bunun için öncelikle lokal repoya bakar"
+		-Maven Central
+		-Remote'a Bakar
+		
+-pom'da yazığımıd plugin : org apache maven plugins => bağımlılıkları executable olarak  içine gömüyor. Adrese teslim jar oluşturuyor.
+-kütüphane olarak kullanılan plugin bağımlılıkları gömmüyor.
+
+!!!no main manifest hatası plugin ekleyerek çözülüyor. Eğer jar kütüphane olarak bir plugin ile oluşturulmuş ise bu hata çıkar. O jar sadece çağrılabilir run edilemez.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ eğer pom.xml üzerinde spring framework yaparsan kütüphaneye ulaşamıyorsun:
+ 
+ executable jar üretmek için:
+ 
+<plugins>
+	<plugin>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-maven-plugin</artifactId>
+	</plugin>
+</plugins>
+
+************************************************************
+Lib üretmek için Doğru Plugin:
+<plugins>
+	<plugin>
+		<groupId>org.apache.maven.plugins</groupId>
+		<artifactId>maven-jar-plugin</artifactId>
+		<version>3.2.0</version>
+	</plugin>
+</plugins>
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+kütüphanme inmiyorsa Maven Reload etmen gerekiyor.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+****************
+maven komutunda checksum kullanmazsan eğer gradle'da kullanamazsın.
