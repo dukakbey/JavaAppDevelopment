@@ -20,7 +20,7 @@ public class NumberUtilTest {
         this.dataInfo = dataInfo;
     }
 
-    private static class DataInfo
+    public static class DataInfo
     {
         long num;
         boolean expected;
