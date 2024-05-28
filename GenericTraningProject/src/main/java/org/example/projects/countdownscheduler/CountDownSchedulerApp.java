@@ -15,7 +15,7 @@ public class CountDownSchedulerApp {
             System.out.println(ex.getMessage());
         }
 
-        CountDownScheduler scheduler = new CountDownScheduler(duration,period) {
+        CounDownSchedulerEx scheduler = new CounDownSchedulerEx(duration,period) {
             @Override
             protected void onTick(long timeRemain) {
                 System.out.println(timeRemain);

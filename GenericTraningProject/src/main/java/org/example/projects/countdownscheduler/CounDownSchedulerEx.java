@@ -4,23 +4,20 @@ import java.util.Timer;
 import java.util.TimerTask;
 import java.util.concurrent.TimeUnit;
 
-abstract public class CountDownScheduler
-{
+abstract public class CounDownSchedulerEx extends Timer {
     private final long duration;
     private final long period;
     private final TimeUnit timeUnit;
-    private final Timer timer;
     private long timeRemain;
-    CountDownScheduler(long duration,long period,TimeUnit timeUnit)
+    CounDownSchedulerEx(long duration,long period,TimeUnit timeUnit)
     {
         this.duration = timeUnit == TimeUnit.MILLISECONDS ? duration:timeUnit.toMillis(duration);
         this.period =  timeUnit == TimeUnit.MILLISECONDS ? period:timeUnit.toMillis(period);;
         this.timeUnit = timeUnit;
         this.timeRemain =
                 timeUnit == TimeUnit.SECONDS ? duration:timeUnit.toSeconds(duration);
-        timer = new Timer();
     }
-    CountDownScheduler(long duration,long period)
+    CounDownSchedulerEx(long duration,long period)
     {
         this(duration,period,TimeUnit.SECONDS);
     }
@@ -43,13 +40,12 @@ abstract public class CountDownScheduler
     }
     public void start()
     {
-        timer.scheduleAtFixedRate(createTimerTask(),0,period);
+        scheduleAtFixedRate(createTimerTask(),0,period);
     }
     public void cancelTimer()
     {
         onFinish();
-        timer.cancel();
+        cancel();
     }
-
 
 }
