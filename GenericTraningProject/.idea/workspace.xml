@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/Anonim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/AnonimExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/DigitalClockApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/TimeUnitApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/TimerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/LambdaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/LambdaExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Konular.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dersler_link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my txt/ders 4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my txt/ders-18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my txt/Ders Notları.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../my txt/Ders Notları.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
