@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projects/countdownscheduler/CounDownSchedulerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/OptionalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projects/countdownscheduler/CountDownSchedulerRunable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projects/countdownscheduler/CountDownScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/projects/countdownscheduler/CountDownScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projects/countdownscheduler/CountDownSchedulerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/projects/countdownscheduler/CountDownSchedulerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my txt/Ders Notları.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../my txt/Ders Notları.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
