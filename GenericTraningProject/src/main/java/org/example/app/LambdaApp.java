@@ -8,7 +8,9 @@ public class LambdaApp {
     {
         Random r = new Random();
         LambdaExample c = (a,b)-> a+b;
-        IntStream.generate(()->r.nextInt(100)).limit(10).forEach(System.out::println);
+        IntStream.generate(()->r.nextInt(100))
+                .limit(10)
+                .forEach(System.out::println);
     }
 
 }
