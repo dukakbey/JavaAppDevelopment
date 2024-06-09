@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/RunableThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/multipleThreads/CachedData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/multipleThreads/CachedDataApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/multipleThreads/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/multipleThreads/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/multipleThreads/ThreadColorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/producer_comsumer/warehouse/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/producer_comsumer/warehouse/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/producer_comsumer/warehouse/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/producer_comsumer/warehouse/OrderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/producer_comsumer/warehouse/OrderGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/producer_comsumer/warehouse/Shoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/producer_comsumer/warehouse/ShoeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/producer_comsumer/warehouse/ShoeWhareHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/synchronization/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/thread/synchronization/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/LambdaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/LambdaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/OptionalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/OptionalApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my txt/Ders Notları.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../my txt/Ders Notları.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -34,22 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.GenericTraningProject [package].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sc/Documents/JavaProjects/JavaApp1-Mar-2023-main/src/Libraries/JavaLibs/CSDLibs/SchedulerLib&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.GenericTraningProject [package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java/udemy/section11/Java-Generics-Our-Generics-Class-Part-2-Source-code",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example.util.scheduler" />

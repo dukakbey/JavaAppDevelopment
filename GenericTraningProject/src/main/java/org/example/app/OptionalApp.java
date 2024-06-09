@@ -15,7 +15,7 @@ public class OptionalApp
 
             Optional<String> opt;
             opt = Optional.of(TextGenerator.getRandomTextTR_Upper(5,5));
-            opt.filter(p->p.startsWith("b")).map(String::length).ifPresentOrElse(System.out.println;,()->System.out.println("ss")));
+            //opt.filter(p->p.startsWith("b")).map(String::length).ifPresentOrElse(System.out.println;,()->System.out.println("ss")));
         }
 
 
