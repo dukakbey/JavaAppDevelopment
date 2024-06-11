@@ -1,4 +1,4 @@
-package org.example.thread.producer_comsumer.warehouse;
+package org.example.udemy.thread.producer_comsumer.warehouse;
 
 public class Order {
     private int id;
@@ -38,9 +38,7 @@ public class Order {
     @Override
     public String toString() {
         return String.format("""
-                id : %s
-                shoeType : %s
-                quantity : %s
+                [id:%s  shoetype:%s  quantity:%s]
                 """,id,shoeType,quantity);
     }
 }

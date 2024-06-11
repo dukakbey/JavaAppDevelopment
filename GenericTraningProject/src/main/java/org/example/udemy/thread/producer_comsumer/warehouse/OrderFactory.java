@@ -1,6 +1,4 @@
-package org.example.thread.producer_comsumer.warehouse;
-
-import org.example.thread.producer_comsumer.warehouse.Order;
+package org.example.udemy.thread.producer_comsumer.warehouse;
 
 import java.util.Random;
 

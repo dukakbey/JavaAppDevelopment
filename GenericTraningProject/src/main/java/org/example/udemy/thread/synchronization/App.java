@@ -1,4 +1,4 @@
-package org.example.thread.synchronization;
+package org.example.udemy.thread.synchronization;
 
 public class App {
     public static void run()

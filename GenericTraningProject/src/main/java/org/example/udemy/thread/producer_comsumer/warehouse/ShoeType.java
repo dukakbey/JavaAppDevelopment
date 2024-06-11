@@ -1,4 +1,4 @@
-package org.example.thread.producer_comsumer.warehouse;
+package org.example.udemy.thread.producer_comsumer.warehouse;
 
 public enum ShoeType {
     Adidas(0),

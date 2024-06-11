@@ -1,6 +1,4 @@
-package org.example.thread;
-
-import java.util.concurrent.TimeUnit;
+package org.example.udemy.thread;
 
 public class App{
     public static void run()

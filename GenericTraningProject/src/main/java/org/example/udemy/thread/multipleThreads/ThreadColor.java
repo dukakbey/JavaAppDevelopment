@@ -1,4 +1,4 @@
-package org.example.thread.multipleThreads;
+package org.example.udemy.thread.multipleThreads;
 
 public enum ThreadColor {
     ANSI_RESET("\u001B[0m"),

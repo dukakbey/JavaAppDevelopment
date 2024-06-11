@@ -1,4 +1,4 @@
-package org.example.thread.multipleThreads;
+package org.example.udemy.thread.multipleThreads;
 
 import java.util.concurrent.TimeUnit;
 

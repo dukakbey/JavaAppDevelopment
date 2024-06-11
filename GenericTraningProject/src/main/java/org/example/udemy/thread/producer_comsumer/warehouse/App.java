@@ -1,4 +1,4 @@
-package org.example.thread.producer_comsumer.warehouse;
+package org.example.udemy.thread.producer_comsumer.warehouse;
 
 
 
@@ -10,7 +10,7 @@ public class App {
         Consumer c2 = new Consumer(whareHouse);
         Consumer c3 = new Consumer(whareHouse);
 
-        OrderGenerator p1 = new OrderGenerator(whareHouse);
+        Producer p1 = new Producer(whareHouse);
 
         Thread producer = new Thread(p1);
         Thread t2 = new Thread(c1);
@@ -18,6 +18,6 @@ public class App {
         Thread t4 = new Thread(c3);
 
         producer.start();
-        t2.start();t3.start();t4.start();
+        t2.start();//t3.start();t4.start();
     }
 }
