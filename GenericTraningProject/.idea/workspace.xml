@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/EnumColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/Worker.java" afterDir="false" />
+    <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="threads">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/App_newFixedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/App_newSingleThreadExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/ColorThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/CountDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/EnumColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/message/MessageWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/message/MessageWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/Countdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/ThreadFactory.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +53,11 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sc/Documents/JavaProjects/Spring/SpringTraining/config-server",
+    "last_opened_file_path": "C:/Users/sc/Desktop/tmp/JavaAppDevelopment/GenericTraningProject/src/main/java/org/example/udemy/thread/executer",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,8 +65,12 @@
       <recent name="org.example.util.scheduler" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sc\Desktop\tmp\JavaAppDevelopment\GenericTraningProject\src\main\java\org\example\udemy\thread\executer" />
       <recent name="C:\Users\sc\Desktop\tmp\JavaAppDevelopment\GenericTraningProject\src\main\java\org\example\udemy\thread\producer_comsumer\scmessage\lock" />
       <recent name="C:\Users\sc\Desktop\tmp\JavaAppDevelopment\GenericTraningProject\src\main\java\org\example\thread\producer_comsumer\message\lock" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.udemy.thread.executer" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -147,6 +157,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714892644562</updated>
     </task>
+    <task id="LOCAL-00001" summary="threads">
+      <option name="closed" value="true" />
+      <created>1719245653859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719245653859</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="threads" />
   </component>
 </project>

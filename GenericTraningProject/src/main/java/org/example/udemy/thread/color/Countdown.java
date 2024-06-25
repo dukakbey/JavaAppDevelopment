@@ -1,6 +1,6 @@
 package org.example.udemy.thread.color;
 
-public class Worker implements Runnable{
+public class Countdown implements Runnable{
     @Override
     public void run() {
         for (int i = 20; i > 0; i--) {
