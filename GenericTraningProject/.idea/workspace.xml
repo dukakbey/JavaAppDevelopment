@@ -5,18 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="threads">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/App_newFixedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/App_newSingleThreadExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/ColorThreadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/CountDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/EnumColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/withexecuterservice/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/withexecuterservice/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/withexecuterservice/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/withexecuterservice/OrderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/withexecuterservice/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/withexecuterservice/Shoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/withexecuterservice/ShoeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/withexecuterservice/ShoeWhareHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/Countdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/ThreadFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/rawthread/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/rawthread/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/rawthread/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/OrderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/rawthread/OrderFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/rawthread/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/Shoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/rawthread/Shoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/ShoeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/rawthread/ShoeType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/ShoeWhareHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/rawthread/ShoeWhareHouse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +60,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sc/Desktop/tmp/JavaAppDevelopment/GenericTraningProject/src/main/java/org/example/udemy/thread/executer",
+    "last_opened_file_path": "C:/Users/sceylan/Desktop/scJava/JavaAppDevelopment/GenericTraningProject/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/rawthread",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -65,6 +72,7 @@
       <recent name="org.example.util.scheduler" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sceylan\Desktop\scJava\JavaAppDevelopment\GenericTraningProject\src\main\java\org\example\udemy\thread\producer_comsumer\warehouse\rawthread" />
       <recent name="C:\Users\sc\Desktop\tmp\JavaAppDevelopment\GenericTraningProject\src\main\java\org\example\udemy\thread\executer" />
       <recent name="C:\Users\sc\Desktop\tmp\JavaAppDevelopment\GenericTraningProject\src\main\java\org\example\udemy\thread\producer_comsumer\scmessage\lock" />
       <recent name="C:\Users\sc\Desktop\tmp\JavaAppDevelopment\GenericTraningProject\src\main\java\org\example\thread\producer_comsumer\message\lock" />

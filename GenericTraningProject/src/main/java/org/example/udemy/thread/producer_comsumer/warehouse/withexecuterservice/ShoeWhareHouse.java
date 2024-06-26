@@ -1,4 +1,4 @@
-package org.example.udemy.thread.producer_comsumer.warehouse;
+package org.example.udemy.thread.producer_comsumer.warehouse.withexecuterservice;
 
 import java.util.LinkedList;
 import java.util.List;
