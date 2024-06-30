@@ -1,4 +1,4 @@
-package org.example.udemy.thread.executer;
+package org.example.udemy.thread.executer.example;
 
 public enum EnumColor {
     ANSI_RESET("\u001B[0m"),

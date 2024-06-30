@@ -1,4 +1,4 @@
-package org.example.udemy.thread.executer;
+package org.example.udemy.thread.executer.example;
 
 public class CountDown implements Runnable{
     String threadColor = EnumColor.ANSI_RESET.getColorCode();

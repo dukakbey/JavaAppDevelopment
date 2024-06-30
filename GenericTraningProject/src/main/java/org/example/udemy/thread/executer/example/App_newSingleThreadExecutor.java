@@ -1,4 +1,4 @@
-package org.example.udemy.thread.executer;
+package org.example.udemy.thread.executer.example;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;

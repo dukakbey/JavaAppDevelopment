@@ -1,4 +1,4 @@
-package org.example.udemy.thread.producer_comsumer.warehouse.withexecuterservice;
+package org.example.udemy.thread.executer.warehouse;
 
 import java.util.Random;
 

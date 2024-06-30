@@ -1,4 +1,4 @@
-package org.example.udemy.thread;
+package org.example.udemy.thread.basicexample;
 
 public class MyThread extends Thread{
     private int[] odd = {1,3,5,7,9};

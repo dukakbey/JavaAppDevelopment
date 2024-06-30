@@ -1,4 +1,4 @@
-package org.example.udemy.thread;
+package org.example.udemy.thread.basicexample;
 
 public class App{
     public static void run()

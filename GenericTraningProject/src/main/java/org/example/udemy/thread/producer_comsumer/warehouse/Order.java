@@ -1,4 +1,4 @@
-package org.example.udemy.thread.producer_comsumer.warehouse.rawthread;
+package org.example.udemy.thread.producer_comsumer.warehouse;
 
 public class Order {
     private int id;

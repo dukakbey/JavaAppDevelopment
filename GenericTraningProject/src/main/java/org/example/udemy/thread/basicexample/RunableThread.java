@@ -1,4 +1,4 @@
-package org.example.udemy.thread;
+package org.example.udemy.thread.basicexample;
 
 public class RunableThread implements Runnable{
     private int[] even = {2,4,6,8,10};

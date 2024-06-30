@@ -1,9 +1,10 @@
-package org.example.udemy.thread.producer_comsumer.warehouse.rawthread;
+package org.example.udemy.thread.executer.warehouse;
 
 import java.util.Random;
 
 public class Producer implements Runnable{
     private ShoeWhareHouse warehouse;
+    public int receiveOrderCount = 10;
     private final Random r  = new Random();
 
     public Producer(ShoeWhareHouse shoeWhareHouse) {
@@ -13,10 +14,10 @@ public class Producer implements Runnable{
     @Override
     public void run()
     {
-        for (int i = 0; i < r.nextInt(10); i++) {
+        for (int i = 0; i < receiveOrderCount; i++) {
             Order o = OrderFactory.getOrder();
             warehouse.receiveOrder(o);
-            System.out.printf("incoming item: %s",o);
+            System.out.printf(Thread.currentThread().getName()+" incoming order: %s",o);
         }
     }
 }
