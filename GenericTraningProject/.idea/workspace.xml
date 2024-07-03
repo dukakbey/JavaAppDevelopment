@@ -5,86 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="threads">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/warehouse/ConsumerThreadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse/ConsumerThreadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse/Shoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse/ShoeWhareHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/stream/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/Anonim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/Anonim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/AnonimExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/AnonimExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/DigitalClockApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/DigitalClockApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/LambdaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/LambdaApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/LambdaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/LambdaExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/OptionalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/OptionalApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/PeriodicTextGeneratorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/PeriodicTextGeneratorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/TTextGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/TTextGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/TextApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/TextApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/TimeUnitApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/TimeUnitApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/TimerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/app/TimerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projects/countdownscheduler/CounDownSchedulerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/projects/countdownscheduler/CounDownSchedulerEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projects/countdownscheduler/CountDownScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/projects/countdownscheduler/CountDownScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projects/countdownscheduler/CountDownSchedulerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/projects/countdownscheduler/CountDownSchedulerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projects/countdownscheduler/CountDownSchedulerRunable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/projects/countdownscheduler/CountDownSchedulerRunable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/basicexample/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/basicexample/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/basicexample/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/basicexample/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/basicexample/RunableThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/basicexample/RunableThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/color/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/Countdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/color/Countdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/color/EnumColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/color/EnumColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/example/App_newFixedThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/example/App_newFixedThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/example/App_newSingleThreadExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/example/App_newSingleThreadExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/example/ColorThreadFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/example/ColorThreadFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/example/CountDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/example/CountDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/example/EnumColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/example/EnumColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/warehouse/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/warehouse/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/warehouse/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/warehouse/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/warehouse/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/warehouse/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/warehouse/OrderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/warehouse/OrderFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/warehouse/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/warehouse/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/warehouse/Shoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/warehouse/Shoe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/warehouse/ShoeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/warehouse/ShoeType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/executer/warehouse/ShoeWhareHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/executer/warehouse/ShoeWhareHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/multipleThreads/CachedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/multipleThreads/CachedData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/multipleThreads/CachedDataApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/multipleThreads/CachedDataApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/multipleThreads/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/multipleThreads/StopWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/multipleThreads/ThreadColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/multipleThreads/ThreadColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/multipleThreads/ThreadColorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/multipleThreads/ThreadColorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/message/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/message/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/message/MessageReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/message/MessageReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/message/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/message/MessageRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/message/MessageWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/message/MessageWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/message/lock/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/message/lock/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/message/lock/MessageReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/message/lock/MessageReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/message/lock/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/message/lock/MessageRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/message/lock/MessageWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/message/lock/MessageWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/OrderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse/OrderFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/Shoe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/ShoeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse/ShoeType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse/ShoeWhareHouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse_orig/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse_orig/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/producer_comsumer/warehouse_orig/ShoeWarehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/producer_comsumer/warehouse_orig/ShoeWarehouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/synchronization/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/synchronization/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/udemy/thread/synchronization/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/thread/synchronization/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/number/NumberUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/util/number/NumberUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/scheduler/CountDownScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/util/scheduler/CountDownScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/scheduler/IRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/util/scheduler/IRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/scheduler/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/util/scheduler/Scheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/scheduler/SchedulerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/util/scheduler/SchedulerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/string/RandomPeriodicTextGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/util/string/RandomPeriodicTextGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/string/TextGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/util/string/TextGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/string/function/IConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/util/string/function/IConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/time/DigitalClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/util/time/DigitalClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/scheduler/CountDownSchedulerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/sceylan/scheduler/CountDownSchedulerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/util/number/NumberUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/sceylan/util/number/NumberUtilTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/util/string/TextGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/sceylan/util/string/TextGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -238,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719245653859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="threads">
+      <option name="closed" value="true" />
+      <created>1719744987755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719744987755</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
