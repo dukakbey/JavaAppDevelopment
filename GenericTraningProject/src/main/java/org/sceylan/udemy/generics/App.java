@@ -1,8 +1,13 @@
 package org.sceylan.udemy.generics;
 
+import java.util.Arrays;
+
 public class App {
     public static void run()
     {
-        System.out.println(Suit.CLUB.symbol());
+        Card[] deck = new Card[13];
+        Card card = Card.getCard(CardValue.J,Suit.CLUB);
+        Arrays.fill(deck,card);
+        Card.printDeck(Arrays.asList(deck),1);
     }
 }

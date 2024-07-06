@@ -11,6 +11,7 @@ public class App {
     public static void run()
     {
         Random r = new Random();
+
         List<Integer> numbers  = Arrays.asList(1,2,3,4,44,89);
 
         //numbers.stream().filter(p->p>3).map(p->p*2).forEach(System.out::println);
