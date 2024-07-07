@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="threads">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/CardValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/snakegame/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/stream/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/stream/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/Suit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,7 +47,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sc/Desktop/tmp/JavaAppDevelopment/GenericTraningProject/src/main/java/org/sceylan/udemy/thread/producer_comsumer&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sezginceylan/Documents/GitHub/JavaAppDevelopment/GenericTraningProject&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -139,13 +139,6 @@
         <item itemvalue="JUnit.NumberUtilTest" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

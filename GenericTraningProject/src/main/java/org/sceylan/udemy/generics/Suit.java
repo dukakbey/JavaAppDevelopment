@@ -8,5 +8,4 @@ public enum Suit {
     {
         return str;
     }
-
 }
