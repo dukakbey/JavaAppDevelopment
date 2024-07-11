@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="threads">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/snakegame/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/util/console/Console.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/generics/Suit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/snakegame/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/projects/snakegame/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dukakbey&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dukakbey/JavaAppDevelopment.git&quot;,
+    &quot;accountId&quot;: &quot;1b574202-3a82-4df9-a6a8-0a5679a4df31&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -41,6 +51,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JAR Application.GenericTraningProject-1.0-SNAPSHOT.jar.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.GenericTraningProject [install].executor&quot;: &quot;Run&quot;,
     &quot;Maven.GenericTraningProject [package].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -132,9 +144,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GenericTraningProject-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/GenericTraningProject-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.GenericTraningProject-1.0-SNAPSHOT.jar" />
         <item itemvalue="JUnit.TextGeneratorTest" />
         <item itemvalue="JUnit.NumberUtilTest" />
       </list>
@@ -165,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719744987755</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="threads">
+      <option name="closed" value="true" />
+      <created>1720380219695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720380219695</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
