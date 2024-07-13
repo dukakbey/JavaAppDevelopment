@@ -1,4 +1,4 @@
-package org.sceylan.udemy.generics;
+package org.sceylan.udemy.collections;
 
 import java.util.Arrays;
 

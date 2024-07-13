@@ -1,4 +1,4 @@
-package org.sceylan.udemy.generics;
+package org.sceylan.udemy.collections;
 
 public enum CardValue {
     TWO(0),THREE(1),FOUR(2),FIVE(3),

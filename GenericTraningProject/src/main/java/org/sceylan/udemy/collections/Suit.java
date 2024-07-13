@@ -1,4 +1,4 @@
-package org.sceylan.udemy.generics;
+package org.sceylan.udemy.collections;
 
 public enum Suit {
     CLUB('♣'),DIAMOND('♦'),HEART('♥'),SPADE('♠');
