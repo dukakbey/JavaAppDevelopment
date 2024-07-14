@@ -6,7 +6,8 @@ import java.util.List;
 public class Card {
     private Suit suit;
     private String face;
-    private CardValue cardValue;
+    public static CardValue cardValue;
+
     Card(CardValue cardValue,Suit suit)
     {
         if(cardValue != CardValue.A && cardValue != CardValue.K &&
@@ -17,6 +18,7 @@ public class Card {
             face = cardValue.toString() + suit.symbol() +"("+cardValue.rank()+")";
         this.suit = suit;
         this.cardValue = cardValue;
+
     }
 
     @Override //2♣(0)
@@ -40,20 +42,14 @@ public class Card {
         }
         return cards;
     }
-//    public static void printDeck()
-//    {
-//        List<Card> cards = getStandardDeck();
-//        for(var c:cards)
-//        {
-//            if(c.cardValue.rank() == 12)
-//            {
-//                System.out.println(c+" ");
-//            }
-//            else
-//                System.out.print(c+" ");
-//        }
-//
-//    }
+    public int rank()
+    {
+        return cardValue.rank();
+    }
+    public String value()
+    {
+        return cardValue.toString();
+    }
     public static void printDeck(List<Card> deck,String description, int rows) {
         System.out.println("---------------------------");
         if (description != null) {

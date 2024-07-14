@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="threads">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/Suit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/Card.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720718783346</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="threads">
+      <option name="closed" value="true" />
+      <created>1720871604205</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720871604205</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
