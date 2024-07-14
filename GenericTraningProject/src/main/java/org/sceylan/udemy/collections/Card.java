@@ -50,7 +50,13 @@ public class Card {
     {
         return cardValue.toString();
     }
-    public static void printDeck(List<Card> deck,String description, int rows) {
+
+    public static void printDeck(List<Card> deck) {
+        printDeck(deck, "Current Deck", 4);
+    }
+
+    public static void printDeck(List<Card> deck, String description, int rows) {
+
         System.out.println("---------------------------");
         if (description != null) {
             System.out.println(description);
@@ -63,19 +69,28 @@ public class Card {
             System.out.println();
         }
     }
-    public static void printDeck()
+    public static void printRanks(List<Card> cards)
     {
-        printDeck(getStandardDeck(),"Standart Deck",4);
+        int i = 0;
+        for (var card: cards) {
+            System.out.printf("card%d rank:%d \n",i++,card.rank());
+        }
+
     }
-    public static void printDeck(int rows) {
-        printDeck(getStandardDeck(),"Standart Deck",rows);
-    }
-    public static void printDeck(List<Card> deck)
-    {
-        printDeck(deck,"Deck",4);
-    }
-    public static void printDeck(List<Card> deck,int rows)
-    {
-        printDeck(deck,"Deck",rows);
-    }
+//    public static void printDeck()
+//    {
+//        printDeck(getStandardDeck(),"Standart Deck",4);
+//    }
+//    public static void printDeck(int rows) {
+//        printDeck(getStandardDeck(),"Standart Deck",rows);
+//    }
+//    public static void printDeck(List<Card> deck)
+//    {
+//        printDeck(deck,"Deck",4);
+//    }
+//    public static void printDeck(List<Card> deck,int rows)
+//    {
+//        printDeck(deck,"Deck",rows);
+//    }
+
 }
