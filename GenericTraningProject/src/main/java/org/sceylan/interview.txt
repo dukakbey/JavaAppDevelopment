@@ -1,0 +1,7 @@
+Merhaba,
+1) MGEO'da başladım. Aviyonik entegrasyon mühendisi olarak. ADA dili ile CDU yazılımı geliştirdim. IFF ve 9681 telsiz entegrasyonlarında görev aldım.
+2) İskenderun Demir Çelik: Sonrasında memleketim Hatay'da İskenderun Demir Çelikte çalıştım. Ana görevim C# ve Oracle kullanarak veritabanı yönetimi. python ile otomasyon projeleri.
+3) Havelsan :
+	- C++ : 5 sene c++ ile yazılım geliştirdim. Ana Görevim Milli taktik Çevre Simülasyonnu Projesiydi. Burda arka planda koşan entity'lerin yani tank, helikopter, hava savunma sistemleri gibi dost ve düşman unsurlarını sürmek ve anlık bilgilerini multicast olarak yayınlamaktı.
+	-  Java: 2 yıl civarı Java kullandım.  spring boot ile API yazdım. React ile front end'ini geliştirdim.
+	- ana uzmanlık alanım C++ idi fakat projenin ihtiyaçları doğrultusunda en uygun dili seçerek uygulamalar geliştirdim. Mesela bir setup wizard ihtiyacımız vardı python QT framework'ü kullanarak yazdım. Veritabanında bazı verileri son kullanıcının görmesi ve kullanması gerektiğinde
