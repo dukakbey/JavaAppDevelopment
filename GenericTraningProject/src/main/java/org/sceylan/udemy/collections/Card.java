@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Card {
-    private Suit suit;
+    public Suit suit;
     private String face;
-    public static CardValue cardValue;
+    public CardValue cardValue;
 
     Card(CardValue cardValue,Suit suit)
     {
@@ -42,6 +42,10 @@ public class Card {
         }
         return cards;
     }
+    public String getSuit()
+    {
+        return suit.symbol();
+    }
     public int rank()
     {
         return cardValue.rank();
@@ -73,7 +77,7 @@ public class Card {
     {
         int i = 0;
         for (var card: cards) {
-            System.out.printf("card%d rank:%d \n",i++,card.rank());
+            System.out.printf("card_%d suit: %s face:%s rank:%d \n",i++,card.suit.toString(),card.face.toString(),card.rank());
         }
 
     }
