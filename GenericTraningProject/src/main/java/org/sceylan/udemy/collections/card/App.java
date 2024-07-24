@@ -1,8 +1,6 @@
-package org.sceylan.udemy.collections;
+package org.sceylan.udemy.collections.card;
 
 import java.util.*;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
 
 public class App {
     public static void run()

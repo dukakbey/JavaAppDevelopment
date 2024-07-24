@@ -1,0 +1,2 @@
+- hashCode() metodu ne iş yapar ? nerelerde kullanılır ?
+- equals override ne iş yapar  ?

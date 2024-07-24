@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1fe8709-e12d-46f6-9bbd-1c43e7ecaefd" name="Changes" comment="threads">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/interview.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/sets/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/sets/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/sets/ContactData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/sets/sets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/sets/todo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/taskapp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/taskapp/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/taskapp/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/taskapp/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/card/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/card/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/CardValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/card/CardValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sceylan/udemy/collections/card/Suit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

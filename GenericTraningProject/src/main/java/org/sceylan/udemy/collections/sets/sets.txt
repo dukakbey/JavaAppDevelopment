@@ -1,0 +1,14 @@
+=====SET==========
+- bu bir interface'dir. add,remove,clear,contains metotları tanımlıdır.
+- örtülü bir şekilde sıralı değildir.
+- duplike element içermez.
+- operasyonları çok hızlı bir şekilde gerçekleştirir.
+- set üzerinde n. elemanı getirmek mümkün değildir.
+Bu interface'in implementasyonları:
+
+1) HASHSET Class:
+- bu class hashin mekanizması ile elementleri depolar.
+- add,remove,contains ve size fonksiyonlarını constant time (Big O Notation O(1)) ile gerçekleştirir.
+- get metodu yoktur. Elementi almak istiyorsanız manuel aramak zorundasınız.
+
+

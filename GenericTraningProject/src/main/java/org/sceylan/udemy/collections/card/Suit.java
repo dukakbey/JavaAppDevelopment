@@ -1,4 +1,4 @@
-package org.sceylan.udemy.collections;
+package org.sceylan.udemy.collections.card;
 
 public enum Suit {
     CLUBS("♣"),

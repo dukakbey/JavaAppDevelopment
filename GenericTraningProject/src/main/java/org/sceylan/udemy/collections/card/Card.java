@@ -1,4 +1,4 @@
-package org.sceylan.udemy.collections;
+package org.sceylan.udemy.collections.card;
 
 import java.util.ArrayList;
 import java.util.List;
